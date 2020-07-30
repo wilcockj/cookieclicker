@@ -5,7 +5,8 @@ it will also periodically check the screen to see if it detects a golden cookie 
 Also has auto upgrade functionality and purchases buildings to maximize cookies per second.
 Will have to be tuned to your specific resolution
 
-![](output.gif)
+In action here
+https://www.youtube.com/watch?v=xXBgPU8wmTE
 
 Usage run cookieclickernew.py while you have the cookie clicker website in view with no obstructions
 
