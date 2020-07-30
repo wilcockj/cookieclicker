@@ -6,3 +6,11 @@ Also has auto upgrade functionality and purchases buildings to maximize cookies 
 Will have to be tuned to your specific resolution
 
 ![](output.gif)
+
+Usage run cookieclickernew.py while you have the cookie clicker website in view with no obstructions
+
+Is currently set up to run on a setup with 1366x768 monitor to the right of a 1920x1080
+
+To setup the different resolutions in the commandline type python or python3 depending on your setup
+
+Then import pyautogui and then type pyautogui.displayMousePosition() to start a program that will tell you your mouse position as well as the rgb colors at that pixel.
